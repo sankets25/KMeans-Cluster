@@ -1,3 +1,3 @@
 # KMeans-Cluster
 
-This project is the implemenation of k-means clustering using numpy and pandas.
+This project is the implemenation of K-means Clustering Algorithm using numpy and pandas.
